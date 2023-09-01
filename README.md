@@ -1,8 +1,8 @@
 # Important
 
-This are the offical github repo of material science & Engineering society, IIT Delhi
+This is the offical github repo of Dravyakrit, material science & Engineering society, IIT Delhi
 
-Ensure proper server configuration, as react requires some defined configurations for routers
+Ensure proper server configuration, as react requires some defined configurations for routers.
 
 ```.htaccess
 RewriteEngine On
